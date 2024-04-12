@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+    background-image: url(./imgs/26.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
+
+}
+
+body p{
+    color: azure;
+    width: 50%;
+    margin: 200px auto;
+}
+
+body h1{
+    width: 35%;
+    margin: 0 auto;
+    color: azure;
+}
